@@ -1,0 +1,7 @@
+github_repo: gated-recall
+description: Skip RAG inject on greetings and small-model fallback; empty identity allowlist returns no hits; fuse hybrid ranks on ids not snippets.
+homepage: START_HERE.md
+private: false
+topics: rag,agent-memory,hybrid-search,rrf,token-budget,identity-filter,edge-llm
+source_folder: gated-recall
+python: "3.12"

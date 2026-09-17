@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gated-recall"
+version = "0.1.0"
+description = "Skip RAG inject on greetings and small-model fallback; empty identity allowlist returns no hits; fuse hybrid ranks on ids not snippets."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [{ name = "CynicalTyr" }]
+keywords = ["rag", "memory", "hybrid-search", "rrf", "agents", "token-budget", "identity"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = []
+
+[project.urls]
+Homepage = "https://github.com/CynicalTyr/gated-recall"
+Issues = "https://github.com/CynicalTyr/gated-recall/issues"
+
+[tool.setuptools]
+py-modules = ["gated_recall"]

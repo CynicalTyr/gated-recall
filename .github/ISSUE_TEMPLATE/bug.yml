@@ -1,0 +1,25 @@
+name: Bug
+description: Something does not match the documented contract
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+      description: What the README or START_HERE says should happen
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Repro (no secrets)
+      description: Commands and redacted output. No API keys, phones, or .env dumps.
+    validations:
+      required: true
