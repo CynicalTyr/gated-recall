@@ -148,3 +148,9 @@ Deeper case studies: [`docs/ADVANCED.md`](docs/ADVANCED.md). Wiring:
 ## License
 
 MIT. See `LICENSE`.
+
+## Coffee and energy fund
+
+If gated recall saved you a pile of greeting tokens and you want more kernels like it, you can toss something toward CynicalTyr's coffee and energy fund. Optional. Keep shipping either way.
+
+<a title="Donate with PayPal" href="https://www.paypal.me/ctmskm" target="_blank" rel="noopener"><img src="https://moosenet.lol/web_images/paypal-logo.png" alt="" width="140" height="50" /></a><a title="Donate with CashApp" href="https://cash.app/$MooseMeNow" target="_blank" rel="noopener"><img src="https://moosenet.lol/web_images/cashapp-logo.png" alt="" width="140" height="55" /></a> <a title="Donate with Venmo" href="https://venmo.com/MooseMeNow" target="_blank" rel="noopener"><img src="https://moosenet.lol/web_images/venmo-logo-600x188.png" alt="" width="140" height="50" /></a>
